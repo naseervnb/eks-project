@@ -45,8 +45,7 @@ pipeline {
                 GIT_EMAIL = "muhammednaseervnbt@gmail.com"
                 GIT_USER_NAME = "naseervnb"
                 IMAGE_NAME = "loadgenerator"
-                REPO_URL = "100458165777
-                .dkr.ecr.us-east-1.amazonaws.com/loadgenerator"
+                REPO_URL = "100458165777.dkr.ecr.us-east-1.amazonaws.com/loadgenerator"
                 YAML_FILE = "loadgenerator.yaml"
             }
             steps {
